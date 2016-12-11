@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: 8a7bbc0482607f947b3866dc1143684a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: b_hip
+    100002: b_left_ankle
+    100004: b_left_foot
+    100006: b_left_heal
+    100008: b_left_toe
+    100010: b_mouth_c_b_end
+    100012: b_mouth_c_t_end
+    100014: b_mouth_center_bot
+    100016: b_mouth_center_top
+    100018: b_mouth_l_b_end
+    100020: b_mouth_left_bot
+    100022: b_mouth_r_b_end
+    100024: b_mouth_right_bot
+    100026: b_right_ankle
+    100028: b_right_foot
+    100030: b_right_heal
+    100032: b_right_toe
+    100034: b_spine
+    100036: b_spine_top
+    100038: eye_brow
+    100040: //RootNode
+    100042: gumba
+    100044: l_foot
+    100046: mouth_center
+    100048: mouth_left
+    100050: mouth_right
+    100052: mouth_total
+    100054: r_foot
+    100056: root
+    100058: root_node
+    400000: b_hip
+    400002: b_left_ankle
+    400004: b_left_foot
+    400006: b_left_heal
+    400008: b_left_toe
+    400010: b_mouth_c_b_end
+    400012: b_mouth_c_t_end
+    400014: b_mouth_center_bot
+    400016: b_mouth_center_top
+    400018: b_mouth_l_b_end
+    400020: b_mouth_left_bot
+    400022: b_mouth_r_b_end
+    400024: b_mouth_right_bot
+    400026: b_right_ankle
+    400028: b_right_foot
+    400030: b_right_heal
+    400032: b_right_toe
+    400034: b_spine
+    400036: b_spine_top
+    400038: eye_brow
+    400040: //RootNode
+    400042: gumba
+    400044: l_foot
+    400046: mouth_center
+    400048: mouth_left
+    400050: mouth_right
+    400052: mouth_total
+    400054: r_foot
+    400056: root
+    400058: root_node
+    4300000: gumba
+    7400000: Take 001
+    11100000: //RootNode
+    13700000: gumba
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
