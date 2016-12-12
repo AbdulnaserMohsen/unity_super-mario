@@ -12,6 +12,7 @@ GameObject:
   - 65: {fileID: 6546902}
   - 23: {fileID: 2380522}
   - 82: {fileID: 8204194}
+  - 114: {fileID: 11423888}
   m_Layer: 0
   m_Name: coined block
   m_TagString: Untagged
@@ -26,7 +27,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 170828}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 16.4924774, y: .389999986, z: -18.2199993}
+  m_LocalPosition: {x: 16.4924793, y: .389999986, z: -18.2199993}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -144,6 +145,20 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
+--- !u!114 &11423888
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 170828}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da98d786bb2207f438b68d8cabca396e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  score: 0
+  tex: {fileID: 2800000, guid: 4162219e05ff11146b587d20cee75245, type: 3}
+  sound: {fileID: 8300000, guid: 1d191dc0667f68843aa186e7c803f912, type: 3}
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1

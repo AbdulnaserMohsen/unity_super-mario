@@ -255,6 +255,14 @@ Material:
         second: {r: 1, g: 1, b: 0, a: 0}
       data:
         first:
+          name: _Displacement
+        second: {r: 6.6371665, g: 20.3539829, b: -1, a: -.681415975}
+      data:
+        first:
+          name: _ShoreTiling
+        second: {r: 1, g: 1, b: .100000001, a: .100000001}
+      data:
+        first:
           name: _DistortParams
         second: {r: 1.43999994, g: .242857143, b: 1.85306406, a: -.531428456}
       data:
@@ -337,14 +345,6 @@ Material:
         first:
           name: _BumpMap_ST
         second: {r: 1, g: 1, b: 0, a: 0}
-      data:
-        first:
-          name: _Displacement
-        second: {r: 6.6371665, g: 20.3539829, b: -1, a: -.681415975}
-      data:
-        first:
-          name: _ShoreTiling
-        second: {r: 1, g: 1, b: .100000001, a: .100000001}
       data:
         first:
           name: _RefrColor

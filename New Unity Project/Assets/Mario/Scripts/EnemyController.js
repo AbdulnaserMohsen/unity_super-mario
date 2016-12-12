@@ -122,7 +122,7 @@ function ApplyDamage 			() {												// play death animation
 	GetComponent.<Animation>().CrossFade ( "die" );													// animation die	
 	yield WaitForSeconds (.65);														// wait before instantiating
 	Instantiate ( killParticle, transform.position, Quaternion.identity );			// create particle
-	Instantiate ( coin, transform.position, Quaternion.identity );					// create/leave coin
+						// create/leave coin
 	Destroy ( gameObject, .1 );														// destroy enemy
 }
 function OnDrawGizmosSelected 	() {												// draw gizmos if selected
